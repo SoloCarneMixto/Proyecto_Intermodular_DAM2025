@@ -1,0 +1,40 @@
+COMPRADOR(id_comprador, nombre)
+C.P: id_comprador
+C.Aj: nombre → usuario(nombre)
+
+VENDEDOR(id_vendedor, nombre)
+C.P: id_vendedor
+C.Aj: nombre → usuario(nombre)
+
+USUARIO(id_usuario, nombre, contraseña, correo_electronico, fecha_registro, valoración)
+C.P: id_usuario
+VNN: nombre
+VNN: contraseña
+VNN: correo_electronico
+VNN: fecha_registro
+VNN: valoración
+
+PRODUCTO(id_producto, nombre, descripcion, precio, antiguedad, estado, imagenes,
+etiquetas, ubicación, fecha_publicacion)
+C.P: id_producto
+VNN: nombre
+VNN: descripción
+VNN: precio
+VNN: antiguedad
+VNN: estado
+VNN: imagenes
+VNN: etiquetas
+VNN: ubicación
+VNN: fecha_publicacion
+
+CATEGORIA(id_categoria, nombre, descripción, imagen)
+C.P: id_categoria
+VNN: nombre
+VNN: descripción
+VNN: imagen
+
+EMPLEADO(id_empleado, nombre, contraseña correo_electronico)
+C.P: id_empleado
+VNN: nombre
+VNN: contraseña
+VNN: correo_electronico
