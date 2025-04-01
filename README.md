@@ -1,71 +1,82 @@
-<a href="https://eddiejaoude.substack.com/p/links" target="_blank"><img src="[https://user-images.githubusercontent.com/624760/197235663-1a08eef9-4f9f-4986-8177-c32329a65f3e.jpeg](https://github.com/SoloCarneMixto/Proyecto_Intermodular_DAM2025/blob/main/src/IMAGEN_PRINCIPAL.png)" /></a>
-
-<p align="center">I believe Open Source is for EVERYONE; yes, YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p>
-
-- 🌟 Part of the <a href="https://stars.github.com/profiles/eddiejaoude/"> GitHub Stars program</a>
-- 🚀 Part of the <a href="https://accelerator.github.com"> GitHub Accelerator program</a> for <a href="https://github.com/EddieHubCommunity/BioDrop">BioDrop</a>
-- 🟩 Join our inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> Where we believe in Collaboration 1st, Code 2nd!
-- 📸 FREE video course on <a href="https://www.udemy.com/course/make-your-github-profile-stand-out/learn/lecture/29205792#overview">How to make your GitHub profile standout</a>
-- 📰 Check out my Substack blog https://substack.com/@eddiejaoude
 
 <p align="center">
-  <a href="http://twitter.com/eddiejaoude">
-    <img src="https://img.shields.io/badge/follow-%40eddiejaoude%20130k+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=1A8CD8" alt="Eddie Jaoude's Twitter"/>
-  </a>
+  <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1MjE1MzMsIm5iZiI6MTc0MzUyMTIzMywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAxVDE1MjcxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTliOTU5MDUxYWZiZDljZWY0NzNkZWQxZDcwYTM1NjNjOGU0NmFmYzBjZThmZjNhNmIzNjg0N2JjMjEzOWU1MDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rrzjC9hKZImL81s-KiJQheqXR3pnDISyIZkRzlwmQm0" alt="" />
+</p>
+<br>
 
-  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=FF0000" alt="Eddie Jaoude's YouTube channel"/>
-  </a>
+<p align="center">
+<img src="https://camo.githubusercontent.com/cf3adca360eeb9ae8a37946bc0f724e30a4affc65c88e5326b5467f4fab2fc95/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c676974687562" />
 </p>
 
-<table>
-  <tr>
-    <td><a href="https://stars.github.com/profiles/eddiejaoude/"><img src="https://user-images.githubusercontent.com/624760/197230432-de4db9f3-8c8d-4421-8ed4-fc83c02f73e6.jpeg" /></a></td>
-    <td><a href="https://stars.github.com/profiles/eddiejaoude/"><img src="https://user-images.githubusercontent.com/624760/197230439-f90cd6b0-2174-41be-97eb-5f28f49d9d19.jpg" /></a></td>
-  </tr>
-</table>
+<p align="center">𝔼𝕤𝕥𝕖 𝕖𝕤 𝕖𝕝 𝕥𝕣𝕒𝕓𝕒𝕛𝕠 𝕕𝕖 𝔾𝕚𝕥ℍ𝕦𝕓 𝕕𝕖 𝔸𝕝𝕓𝕖𝕣𝕥𝕠 𝕊𝕖𝕣𝕣𝕒𝕟𝕠 𝕡𝕒𝕣𝕒 ℙ𝕣𝕠𝕪𝕖𝕔𝕥𝕠 𝕀𝕟𝕥𝕖𝕣𝕞𝕠𝕕𝕦𝕝𝕒𝕣</p>
 
----
+## 𝔻𝕖𝕤𝕔𝕣𝕚𝕡𝕔𝕚𝕠𝕟
+<p align="justify">
+𝔼𝕝 𝕡𝕣𝕠𝕪𝕖𝕔𝕥𝕠 𝕒𝕓𝕒𝕣𝕔𝕒 𝕕𝕖𝕤𝕕𝕖 𝕝𝕒 𝕡𝕝𝕒𝕟𝕚𝕗𝕚𝕔𝕒𝕔𝕚𝕠𝕟 𝕚𝕟𝕚𝕔𝕚𝕒𝕝 𝕙𝕒𝕤𝕥𝕒 𝕝𝕒 𝕚𝕞𝕡𝕝𝕖𝕞𝕖𝕟𝕥𝕒𝕔𝕚𝕠𝕟 𝕗𝕚𝕟𝕒𝕝, 𝕚𝕟𝕔𝕝𝕦𝕪𝕖𝕟𝕕𝕠 𝕚𝕟𝕗𝕠𝕣𝕞𝕖𝕤, 𝕔𝕠𝕕𝕚𝕘𝕠 𝕗𝕦𝕖𝕟𝕥𝕖 𝕪 𝕞𝕒𝕥𝕖𝕣𝕚𝕒𝕝𝕖𝕤 𝕕𝕖 𝕡𝕣𝕖𝕤𝕖𝕟𝕥𝕒𝕔𝕚𝕠𝕟.
+𝔼𝕝 𝕡𝕣𝕠𝕪𝕖𝕔𝕥𝕠 𝕔𝕠𝕟𝕤𝕚𝕤𝕥𝕖 𝕖𝕟 𝕦𝕟𝕒 𝕒𝕡𝕝𝕚𝕔𝕒𝕔𝕚𝕠𝕟 𝕢𝕦𝕖 𝕡𝕖𝕣𝕞𝕚𝕥𝕚𝕣𝕒 𝕝𝕒 𝕔𝕣𝕖𝕒𝕔𝕚𝕠𝕟, 𝕖𝕕𝕚𝕔𝕚𝕠𝕟 𝕪 𝕤𝕖𝕘𝕦𝕚𝕞𝕚𝕖𝕟𝕥𝕠 𝕕𝕖 𝕥𝕒𝕣𝕖𝕒𝕤, 𝕗𝕒𝕔𝕚𝕝𝕚𝕥𝕒𝕟𝕕𝕠 𝕝𝕒 𝕡𝕝𝕒𝕟𝕚𝕗𝕚𝕔𝕒𝕔𝕚𝕠𝕟 𝕕𝕖𝕝 𝕕𝕚𝕒 𝕒 𝕕𝕚𝕒 𝕔𝕠𝕟 𝕠𝕡𝕔𝕚𝕠𝕟𝕖𝕤 𝕕𝕖 𝕣𝕖𝕔𝕠𝕣𝕕𝕒𝕥𝕠𝕣𝕚𝕠𝕤, 𝕔𝕒𝕥𝕖𝕘𝕠𝕣𝕚𝕫𝕒𝕔𝕚𝕠𝕟 𝕪 𝕡𝕣𝕚𝕠𝕣𝕚𝕕𝕒𝕕𝕖𝕤.
+</p>
 
-### Latest YouTube videos
 
-<table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=TbISzUdwsXU"><img width="140px" src="https://i.ytimg.com/vi/TbISzUdwsXU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=TbISzUdwsXU">Do you need Dark Mode from day 1?</a> (Dec 30, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=kUJ3vt1AJU4"><img width="140px" src="https://i.ytimg.com/vi/kUJ3vt1AJU4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kUJ3vt1AJU4">When coding, we are not always coding #digitalnomad #devlife</a> (Dec 21, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Et6sM6Xsklc"><img width="140px" src="https://i.ytimg.com/vi/Et6sM6Xsklc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Et6sM6Xsklc">Prisma ORM Typescript models #prisma #orm #database</a> (Dec 19, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=c1EqB-lIGRs"><img width="140px" src="https://i.ytimg.com/vi/c1EqB-lIGRs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=c1EqB-lIGRs">Twitter &lpar;X&rpar; pinned post #twitter #socialmedia</a> (Dec 17, 2024)<br/></td></tr>
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-</table>
 
----
+<br>
+<p align="center"><img src="https://media.tenor.com/5lc_PybCMVEAAAAm/umbreon-spin.webp"></p>
 
-### Testimonials
+```𝕡𝕝𝕒𝕚𝕟𝕥𝕖𝕩𝕥
+/ℙ𝕣𝕠𝕪𝕖𝕔𝕥𝕠_𝕀𝕟𝕥𝕖𝕣𝕞𝕠𝕕𝕦𝕝𝕒𝕣_𝔻𝔸𝕄2025.  
+│── /𝕕𝕠𝕔𝕦𝕞𝕖𝕟𝕥𝕒𝕔𝕚𝕠𝕟/      # 𝕀𝕟𝕗𝕠𝕣𝕞𝕖𝕤, 𝕒𝕟𝕒𝕝𝕚𝕤𝕚𝕤, 𝕡𝕝𝕒𝕟𝕚𝕗𝕚𝕔𝕒𝕔𝕚𝕠𝕟 𝕪 𝕕𝕚𝕤𝕖𝕟𝕠  
+│── /𝕤𝕣𝕔/                # ℂ𝕠𝕕𝕚𝕘𝕠 𝕗𝕦𝕖𝕟𝕥𝕖 𝕕𝕖𝕝 𝕡𝕣𝕠𝕪𝕖𝕔𝕥𝕠  
+│    ├── /𝕞𝕒𝕚𝕟/          # ℂ𝕠𝕕𝕚𝕘𝕠 𝕡𝕣𝕚𝕟𝕔𝕚𝕡𝕒𝕝 𝕕𝕖 𝕝𝕒 𝕒𝕡𝕝𝕚𝕔𝕒𝕔𝕚𝕠𝕟  
+│    ├── /𝕔𝕠𝕟𝕥𝕣𝕠𝕝𝕝𝕖𝕣𝕤/   # ℂ𝕠𝕟𝕥𝕣𝕠𝕝𝕒𝕕𝕠𝕣𝕖𝕤 𝕕𝕖 𝕝𝕒 𝕒𝕡𝕝𝕚𝕔𝕒𝕔𝕚𝕠𝕟  
+│    ├── /𝕞𝕠𝕕𝕖𝕝𝕤/        # 𝕄𝕠𝕕𝕖𝕝𝕠𝕤 𝕕𝕖 𝕕𝕒𝕥𝕠𝕤  
+│    ├── /𝕧𝕚𝕖𝕨𝕤/         # 𝕀𝕟𝕥𝕖𝕣𝕗𝕒𝕔𝕖𝕤 𝕕𝕖 𝕦𝕤𝕦𝕒𝕣𝕚𝕠 (𝔽𝕏𝕄𝕃)  
+│── /𝕣𝕖𝕔𝕦𝕣𝕤𝕠𝕤/           # 𝕀𝕞𝕒𝕘𝕖𝕟𝕖𝕤, 𝕕𝕚𝕒𝕘𝕣𝕒𝕞𝕒𝕤, 𝕚𝕔𝕠𝕟𝕠𝕤, 𝕧𝕚𝕕𝕖𝕠𝕤 𝕪 𝕠𝕥𝕣𝕠𝕤 𝕞𝕒𝕥𝕖𝕣𝕚𝕒𝕝𝕖𝕤  
+│── /𝕡𝕣𝕖𝕤𝕖𝕟𝕥𝕒𝕔𝕚𝕠𝕟/       # 𝕄𝕒𝕥𝕖𝕣𝕚𝕒𝕝 𝕡𝕒𝕣𝕒 𝕝𝕒 𝕡𝕣𝕖𝕤𝕖𝕟𝕥𝕒𝕔𝕚𝕠𝕟 𝕗𝕚𝕟𝕒𝕝 (𝕕𝕚𝕒𝕡𝕠𝕤𝕚𝕥𝕚𝕧𝕒𝕤, 𝕕𝕖𝕞𝕠, 𝕖𝕥𝕔.)  
+│── /𝕥𝕖𝕤𝕥𝕤/              # ℙ𝕣𝕦𝕖𝕓𝕒𝕤 𝕦𝕟𝕚𝕥𝕒𝕣𝕚𝕒𝕤 𝕪 𝕗𝕦𝕟𝕔𝕚𝕠𝕟𝕒𝕝𝕖𝕤  
+│── /𝕔𝕠𝕟𝕗𝕚𝕘/             # 𝔸𝕣𝕔𝕙𝕚𝕧𝕠𝕤 𝕕𝕖 𝕔𝕠𝕟𝕗𝕚𝕘𝕦𝕣𝕒𝕔𝕚𝕠𝕟  
+│── ℝ𝔼𝔸𝔻𝕄𝔼.𝕞𝕕            # 𝔻𝕖𝕤𝕔𝕣𝕚𝕡𝕔𝕚𝕠𝕟 𝕕𝕖𝕝 𝕡𝕣𝕠𝕪𝕖𝕔𝕥𝕠  
+│── 𝕡𝕠𝕞.𝕩𝕞𝕝              # 𝔸𝕣𝕔𝕙𝕚𝕧𝕠 𝕕𝕖 𝕔𝕠𝕟𝕗𝕚𝕘𝕦𝕣𝕒𝕔𝕚𝕠𝕟 𝕕𝕖 𝕄𝕒𝕧𝕖𝕟  
+│── .𝕘𝕚𝕥𝕚𝕘𝕟𝕠𝕣𝕖           # 𝔸𝕣𝕔𝕙𝕚𝕧𝕠𝕤 𝕒 𝕖𝕩𝕔𝕝𝕦𝕚𝕣 𝕕𝕖𝕝 𝕔𝕠𝕟𝕥𝕣𝕠𝕝 𝕕𝕖 𝕧𝕖𝕣𝕤𝕚𝕠𝕟𝕖𝕤  
+│── 𝕃𝕀ℂ𝔼ℕ𝕊𝔼              # 𝔸𝕣𝕔𝕙𝕚𝕧𝕠 𝕠𝕡𝕔𝕚𝕠𝕟𝕒𝕝 𝕕𝕖 𝕝𝕚𝕔𝕖𝕟𝕔𝕚𝕒 
+```
 
-<table>
-  <tr>
-    <th>Author</th>
-    <th>Message</th>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/urlichsanais/status/1349358736092094467">Anaïs Urlichs</a></td>
-    <td>Eddie is probably the most genuine and kind person I know in tech 🥰 providing opportunities and consistently cheering without expecting anything in return! He just recommended me for a podcast 😱</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/yalematta/status/1304541107330658313">Layale</a></td>
-    <td>Following @eddiejaoude videos helped me a lot. You'll learn by practicing during his livestreams. Check his YouTube channel!</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/__nawalhmw/status/1304572901140635648">Nawal Alhamwi</a></td>
-    <td>YES, CAN'T AGREE MORE!! 💯 His videos (both the content && the way he delivers information) made me love Github more!🤩 Thanks @eddiejaoude 🌟</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/allanregush/status/1304484456221167617">Allan Regush</a></td>
-    <td>Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.</td>
-  </tr>
-</table>
+## 𝕋𝕖𝕔𝕟𝕠𝕝𝕠𝕘𝕚𝕒𝕤 𝕦𝕥𝕚𝕝𝕚𝕫𝕒𝕕𝕒𝕤
+- 𝕃𝕖𝕟𝕘𝕦𝕒𝕛𝕖 𝕕𝕖 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕒𝕔𝕚𝕠𝕟: **𝕁𝕒𝕧𝕒**
+- 𝔽𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜𝕤 𝕪 𝕝𝕚𝕓𝕣𝕖𝕣𝕚𝕒𝕤: **𝕁𝕒𝕧𝕒𝔽𝕏** 𝕡𝕒𝕣𝕒 𝕝𝕒 𝕚𝕟𝕥𝕖𝕣𝕗𝕒𝕫 𝕘𝕣𝕒𝕗𝕚𝕔𝕒
+- 𝔹𝕒𝕤𝕖 𝕕𝕖 𝕕𝕒𝕥𝕠𝕤: **𝕊ℚ𝕃𝕚𝕥𝕖** 𝕡𝕒𝕣𝕒 𝕒𝕝𝕞𝕒𝕔𝕖𝕟𝕒𝕞𝕚𝕖𝕟𝕥𝕠 𝕝𝕠𝕔𝕒𝕝
+- ℍ𝕖𝕣𝕣𝕒𝕞𝕚𝕖𝕟𝕥𝕒𝕤 𝕒𝕕𝕚𝕔𝕚𝕠𝕟𝕒𝕝𝕖𝕤: **𝔾𝕚𝕥ℍ𝕦𝕓** 𝕡𝕒𝕣𝕒 𝕔𝕠𝕟𝕥𝕣𝕠𝕝 𝕕𝕖 𝕧𝕖𝕣𝕤𝕚𝕠𝕟𝕖𝕤, **𝕄𝕒𝕧𝕖𝕟** 𝕡𝕒𝕣𝕒 𝕝𝕒 𝕘𝕖𝕤𝕥𝕚𝕠𝕟 𝕕𝕖 𝕕𝕖𝕡𝕖𝕟𝕕𝕖𝕟𝕔𝕚𝕒𝕤
+  <br>
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1MjE1MzMsIm5iZiI6MTc0MzUyMTIzMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzctZGUwMzgxNzItZTkwMy00OTUxLTkyNmMtNzU1ODc4ZGViMGI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAxVDE1MjcxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4NDM0NDA2YTcxZjFiNGFmYzY1MGY2YjExNDYwMzU1ZDExMmM1ODYwMDY1OGY4OTQ3Mjk3MWY2YjkwODQ1NzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.QS5xR133kRd5hxK6TEzgyGG4eaTC3p5bsPDp7NZtCx4" width="75" height="75">
+  ### 𝕀𝕟𝕤𝕥𝕒𝕝𝕒𝕔𝕚𝕠𝕟
+1. ℂ𝕝𝕠𝕟𝕒𝕣 𝕖𝕝 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕚𝕠 𝕕𝕖𝕤𝕕𝕖 𝔾𝕚𝕥ℍ𝕦𝕓:
+```𝕓𝕒𝕤𝕙
+   𝕘𝕚𝕥 𝕔𝕝𝕠𝕟𝕖 𝕙𝕥𝕥𝕡𝕤://𝕘𝕚𝕥𝕙𝕦𝕓.𝕔𝕠𝕞/𝕊𝕠𝕝𝕠ℂ𝕒𝕣𝕟𝕖𝕄𝕚𝕩𝕥𝕠/ℙ𝕣𝕠𝕪𝕖𝕔𝕥𝕠_𝕀𝕟𝕥𝕖𝕣𝕞𝕠𝕕𝕦𝕝𝕒𝕣_𝔻𝔸𝕄2025.𝕘𝕚𝕥
+   𝕔𝕕 ℙ𝕣𝕠𝕪𝕖𝕔𝕥𝕠_𝕀𝕟𝕥𝕖𝕣𝕞𝕠𝕕𝕦𝕝𝕒𝕣_𝔻𝔸𝕄2025
+```
+2. ℂ𝕠𝕞𝕡𝕚𝕝𝕒𝕣 𝕪 𝕔𝕠𝕟𝕤𝕥𝕣𝕦𝕚𝕣 𝕖𝕝 𝕡𝕣𝕠𝕪𝕖𝕔𝕥𝕠 𝕔𝕠𝕟 𝕄𝕒𝕧𝕖𝕟:
+```𝕓𝕒𝕤𝕙
+      𝕞𝕧𝕟 𝕔𝕝𝕖𝕒𝕟 𝕡𝕒𝕔𝕜𝕒𝕘𝕖
+```
+### 𝔼𝕛𝕖𝕔𝕦c𝕚𝕠𝕟
+𝕌𝕟𝕒 𝕧𝕖𝕫 𝕔𝕠𝕞𝕡𝕚𝕝𝕒𝕕𝕠, 𝕡𝕦𝕖𝕕𝕖𝕤 𝕖𝕛𝕖𝕔𝕦𝕥𝕒𝕣 𝕝𝕒 𝕒𝕡𝕝𝕚𝕔𝕒𝕔𝕚𝕠𝕟 𝕔𝕠𝕟 𝕖𝕝 𝕤𝕚𝕘𝕦𝕚𝕖𝕟𝕥𝕖 𝕔𝕠𝕞𝕒𝕟𝕕𝕠:
+```𝕓𝕒𝕤𝕙
+    𝕛𝕒𝕧𝕒 -𝕛𝕒𝕣 𝕥𝕒𝕣𝕘𝕖𝕥/ℙ𝕣𝕠𝕪𝕖𝕔𝕥𝕠_𝕀𝕟𝕥𝕖𝕣𝕞𝕠𝕕𝕦𝕝𝕒𝕣_𝔻𝔸𝕄2025.𝕛𝕒𝕣
+```
+<p align="justify">
+𝕊𝕚 𝕡𝕣𝕖𝕗𝕚𝕖𝕣𝕖𝕤 𝕖𝕛𝕖𝕔𝕦𝕥𝕒𝕣𝕝𝕠 𝕕𝕖𝕤𝕕𝕖 𝕦𝕟 𝕖𝕟𝕥𝕠𝕣𝕟𝕠 𝕕𝕖 𝕕𝕖𝕤𝕒𝕣𝕣𝕠𝕝𝕝𝕠 𝕔𝕠𝕞𝕠 𝕀𝕟𝕥𝕖𝕝𝕝𝕚𝕁 𝕀𝔻𝔼𝔸 𝕠 𝔼𝕔𝕝𝕚𝕡𝕤𝕖, 𝕒𝕓𝕣𝕖 𝕖𝕝 𝕡𝕣𝕠𝕪𝕖𝕔𝕥𝕠 𝕔𝕠𝕞𝕠 𝕦𝕟 𝕡𝕣𝕠𝕪𝕖𝕔𝕥𝕠 𝕄𝕒𝕧𝕖𝕟 𝕪 𝕖𝕛𝕖𝕔𝕦𝕥𝕒 𝕝𝕒 𝕔𝕝𝕒𝕤𝕖 𝕡𝕣𝕚𝕟𝕔𝕚𝕡𝕒𝕝 𝕕𝕖𝕤𝕕𝕖 𝕖𝕝 𝕀𝔻𝔼.
+</p>
 
-<p>All my social links and courses in one place... https://eddiejaoude.substack.com/p/links</p>
+
+
+## 𝔸𝕦𝕥𝕠𝕣𝕖𝕤
+**𝔸𝕝𝕓𝕖𝕣𝕥𝕠 𝕊𝕖𝕣𝕣𝕒𝕟𝕠 𝔼𝕩𝕡𝕠𝕤𝕚𝕥𝕠**
+
+<sup>𝔼𝕤𝕥𝕦𝕕𝕚𝕒𝕟𝕥𝕖 𝕕𝕖 1º 𝕕𝕖 _𝔻𝕖𝕤𝕒𝕣𝕣𝕠𝕝𝕝𝕠 𝕕𝕖 𝔸𝕡𝕝𝕚𝕔𝕒𝕔𝕚𝕠𝕟𝕖𝕤 𝕄𝕦𝕝𝕥𝕚𝕡𝕝𝕒𝕥𝕒𝕗𝕠𝕣𝕞𝕒_ (𝔻𝔸𝕄) 𝕖𝕟 [𝕀𝔼𝕊 𝔼𝕕𝕦𝕒𝕣𝕕𝕠 ℙ𝕣𝕚𝕞𝕠 𝕄𝕒𝕣𝕢𝕦𝕖𝕤](𝕙𝕥𝕥𝕡𝕤://𝕡𝕠𝕣𝕥𝕒𝕝.𝕖𝕕𝕦.𝕘𝕧𝕒.𝕖𝕤/𝕚𝕖𝕤𝕖𝕕𝕦𝕒𝕣𝕕𝕠𝕡𝕣𝕚𝕞𝕠/)</sup>
+<img src="https://media.tenor.com/DtyJY3TmXwYAAAAm/animated-anime.webp" align="right">
+<br>
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+
+
+  
